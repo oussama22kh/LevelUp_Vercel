@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2342ab11-f34e-4bb3-9c41-3924131a2905" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/FinalProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7/storage_v2/_src_/schema/final_project_db.zdFzMg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/45ef9668-2824-4fc0-98a8-d861e4ddddd7/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba/storage_v2/_src_/schema/final_project_db.zdFzMg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/4e840a5f-8b28-47b0-96f2-4fb8eb7937ba/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/managers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0002_student_speciality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0003_alter_student_speciality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0004_remove_teacher_grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0005_remove_student_level_student_degree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0006_student_courses_of_interest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0007_alter_student_speciality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0008_student_img_url_student_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0009_remove_student_img_url_student_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0010_remove_student_img_student_img_url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0011_remove_course_img_url_course_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0012_remove_course_img_remove_student_img_url_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0013_remove_enroll_course_degree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0014_enroll_course_score_earned.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0015_student_daily_time_spent_student_monthly_time_spent_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0016_teacher_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/0017_alter_course_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppFinal/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/algorithm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/database-storage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/istockphoto-1200677760-612x612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/istockphoto-1200677760-612x612_ITpH1uc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/operative-system.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fWLxb2CBpACK8QlyKNxsENEpVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.FinalProject.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ADMI/Desktop/finale/Fn",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMI\Desktop\finale\FinalProject\AppFinal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FinalProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="FinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FinalProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2342ab11-f34e-4bb3-9c41-3924131a2905" name="Changes" comment="" />
+      <created>1713912134631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713912134631</updated>
+      <workItem from="1713912160398" duration="1032000" />
+      <workItem from="1713940568867" duration="56000" />
+      <workItem from="1713942430921" duration="5213000" />
+      <workItem from="1713950759098" duration="9007000" />
+      <workItem from="1714134045573" duration="7172000" />
+      <workItem from="1714290978103" duration="8349000" />
+      <workItem from="1714315196250" duration="6367000" />
+      <workItem from="1714468144645" duration="113000" />
+      <workItem from="1714468267743" duration="87000" />
+      <workItem from="1714468362119" duration="15546000" />
+      <workItem from="1714570146038" duration="713000" />
+      <workItem from="1714570868628" duration="41000" />
+      <workItem from="1714570918404" duration="1561000" />
+      <workItem from="1714573179016" duration="17871000" />
+      <workItem from="1714641398932" duration="25000" />
+      <workItem from="1714641448550" duration="19000" />
+      <workItem from="1714644324446" duration="1775000" />
+      <workItem from="1714734056035" duration="15985000" />
+      <workItem from="1714881106529" duration="17468000" />
+      <workItem from="1714923452543" duration="11588000" />
+      <workItem from="1714989743895" duration="1495000" />
+      <workItem from="1715008301470" duration="16936000" />
+      <workItem from="1715097158194" duration="3602000" />
+      <workItem from="1715111932907" duration="16460000" />
+      <workItem from="1715185180376" duration="4140000" />
+      <workItem from="1715194610309" duration="12311000" />
+      <workItem from="1715215124780" duration="3579000" />
+      <workItem from="1715470625201" duration="186000" />
+      <workItem from="1715546373845" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

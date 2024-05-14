@@ -92,11 +92,11 @@ WSGI_APPLICATION = 'FinalProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'final_project_db',
+        'NAME': 'railway',
         'USER': 'root',
-        'PASSWORD': '17047970',
-        'HOST': 'localhost',
-        'PORT': '3306'
+        'PASSWORD': 'sqdmJVxDmEIVihHGiulHJTnSgXCtwpHd',
+        'HOST': 'roundhouse.proxy.rlwy.net',
+        'PORT': '19573'
     }
 }
 
